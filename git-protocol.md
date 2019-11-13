@@ -9,8 +9,8 @@
 &nbsp;&nbsp;[2. Do work](#2-do-work)\
 &nbsp;&nbsp;[3. Commit your changes](#3-commit-your-changes)\
 &nbsp;&nbsp;[4. Push your changes to your forked repository](#4-push-your-changes-to-your-forked-repository)\
-&nbsp;&nbsp;[5. Open a Merge/Pull Request to merge your changes](#5-open-a-merge/pull-request-to-merge-your-changes)\
-&nbsp;&nbsp;[6. Merge your MR/PR once approved](#6-merge-your-mr/pr-once-approved)\
+&nbsp;&nbsp;[5. Open a Merge/Pull Request to merge your changes](#5-open-a-mergepull-request-to-merge-your-changes)\
+&nbsp;&nbsp;[6. Merge your MR/PR once approved](#6-merge-your-mrpr-once-approved)\
 &nbsp;&nbsp;[7. Clean up your remote and local repositories](#7-clean-up-your-remote-and-local-repositories)\
 &nbsp;&nbsp;[8. Sync \<remote-name\>/master to your local master](#8-sync-remote-namemaster-to-your-local-master)\
 [Basic Git commands](#basic-git-commands)
